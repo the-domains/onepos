@@ -1,0 +1,28 @@
+name: onePOS
+favicon: null
+layout_spectrum: 0.7092062951996922
+typography_spectrum: 0.012873836094513535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11787933460436761
+  lightness: 0.27439178223721683
+  saturation: 0.16774845286272466
+  rhythmicContrast: 0.425313045270741
+purpose: []
